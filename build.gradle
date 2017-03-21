@@ -1,0 +1,42 @@
+buildscript {
+	repositories {
+		jcenter()
+		maven { url = "http://files.minecraftforge.net/maven" }
+	}
+	dependencies {
+		classpath 'net.minecraftforge.gradle:ForgeGradle:2.2-SNAPSHOT'
+	}
+}
+
+apply plugin: 'net.minecraftforge.gradle.forge'
+apply plugin: 'maven'
+apply plugin: 'eclipse'
+
+archivesBaseName = "plasmacraft"
+
+ext.dirDest = './build/dist'
+ext.dirLang = "./lang"
+
+// java version
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+minecraft {
+	version = "1.10.2-12.18.3.2254"
+	runDir = "run"
+	mappings = "snapshot_20161111"
+}
+
+processResources {
+	// replace stuff in mcmod.info, nothing else
+	from(sourceSets.main.resources.srcDirs) {
+		include 'mcmod.info'
+
+		// replace version and mcversion
+		expand 'version':'CUSTOM', 'mcversion':'1.10.2'
+	}
+}
+
+dependencies {
+    compile files("api/industrialcraft-2-2.6.173-ex110-api.jar")
+}
