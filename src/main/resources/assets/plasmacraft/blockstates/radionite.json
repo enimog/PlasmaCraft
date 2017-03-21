@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "radionite" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "radionite" } }
+		]
+	}
+}

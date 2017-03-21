@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "neptunium" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "neptunium" } }
+		]
+	}
+}

@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "cryonite" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "cryonite" } }
+		]
+	}
+}

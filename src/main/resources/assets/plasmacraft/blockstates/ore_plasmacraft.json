@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"type=lead": { "model" : "plasmacraft:ore_lead" },
+		"type=neptunium": { "model" : "plasmacraft:ore_neptunium" },
+		"type=obsidium": { "model" : "plasmacraft:ore_obsidium" },
+		"type=plutonium": { "model" : "plasmacraft:ore_plutonium" },
+		"type=radionite": { "model" : "plasmacraft:ore_radionite" },
+		"type=uranium": { "model" : "plasmacraft:ore_uranium" }
+	}
+}

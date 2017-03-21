@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "uranium" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "uranium" } }
+		]
+	}
+}

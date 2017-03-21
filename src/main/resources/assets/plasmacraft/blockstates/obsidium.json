@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "obsidium" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "obsidium" } }
+		]
+	}
+}

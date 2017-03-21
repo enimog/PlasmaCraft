@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "plutonium" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "plutonium" } }
+		]
+	}
+}

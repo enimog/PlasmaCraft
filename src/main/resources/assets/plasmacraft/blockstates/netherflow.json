@@ -1,0 +1,57 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "forge:fluid",
+		"transform": "forge:default-item"
+	},
+    "variants": {
+		"level=1": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=2": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=3": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=4": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=5": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=6": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=7": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=8": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=9": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=10": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=11": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=12": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=13": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=14": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=15": [
+			{ "custom": { "fluid": "netherflow" } }
+		],		
+        "level=0": [
+			{ "custom": { "fluid": "netherflow" } }
+		]
+	}
+}

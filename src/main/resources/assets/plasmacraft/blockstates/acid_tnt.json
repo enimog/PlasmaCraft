@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"explode=false": { "model" : "plasmacraft:acid_tnt" },
+		"explode=true": { "model" : "plasmacraft:acid_tnt" }
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "side": "plasmacraft:blocks/acid_tnt_side",
+        "down": "plasmacraft:blocks/acid_tnt_bottom",
+        "up": "plasmacraft:blocks/acid_tnt_top"
+    }
+}
